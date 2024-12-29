@@ -1,6 +1,7 @@
 # Sys2Path
 
 🔵 [Sys2Path paper]()
+
 🔵 [Get started with Sys2Path]()
 
 ## 🌟 Background and Motivation
